@@ -1,0 +1,14 @@
+{
+  "name": "mealmaster-server",
+  "version": "1.0.0",
+  "description": "A backend server to handle all the requests from MealMaster written in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaz (Alessandro Giannetti)",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
